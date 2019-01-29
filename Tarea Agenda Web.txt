@@ -1,0 +1,98 @@
+﻿Tarea:
+
+NOTA: 
+El diseño debe de ser totalmente personalizado, no se acepta utilización de algún framework, debe de ser una hoja de estilos que usted diseñe.
+
+
+También debe de añadir el título de la página "Agenda Web" y el ícono que desee.
+
+En la agenda web deben de ir las siguientes páginas:
+
+
+
+1. Inicio
+	
+Página donde se mostrarán los contactos actuales del usuario
+-Debe de apreciarse una tábla con los contactos.
+-Los contactos deben de tener ciertos parámetros (Nombre, apellido, correo, teléfono)
+-En esta página deben de encontrarse todos los enlaces para las demás páginas (queda a su discreción)
+
+
+
+2. Página para añadir contacto
+	En esa página deberá de haber un formulario en donde se puedan agregar nuevos contactos
+		
+-Los datos necesarios para crear un nuevo usuario son: *Nombre, *apellido, *nombre de usuario, *email, *teléfono, imagen, profesión, país, fecha nac.)
+[Los marcados con asteriscos son obligatorios para la creación de usuarios.]
+
+
+
+3. Página de eliminar contacto
+	
+En esta página se podrá eliminar los contactos deseados.
+
+
+
+4. Página editar contacto
+	
+En esta página se podrá editar un contacto.
+		
+-En esta página se mostrarán todos los datos del contacto YA REGISTRADO y serán campos editables para el usuario.
+
+
+
+5. Página "Perfil de usuario"
+	
+-Esta página deberá contener una foto de usuario, y todos los datos que por default son 
+-utilizados para creacion de contactos (Nombres, apellidos, correo, # tel, imagen-[opcional], fecha nac.,país).
+-Acá se mostrarán los datos del usuario logeado, que arriba se describen.
+
+
+
+6. Página de contactos favoritos
+	
+-Una lista de contactos favoritos
+
+
+
+7. Página lista negra de usuarios
+	
+-En esta página habrán algunos contactos "bloqueados".
+		
+-En una tabla debe de mostar contactos que han sido previamente bloqueados.
+
+
+
+8. Página de Calendario de eventos
+	
+-En esta página se podrá apreciar un calendario (Queda a su discreción el diseño) en donde se encontrarán los próximos eventos.
+
+
+
+9. Página de añadir un nuevo evento
+	
+-En esta página se solicitará añadir un nuevo envento, llenando ciertos parámetros
+		-Fecha inicio 
+- final
+		
+-Hora inicio 
+- final
+		
+-Asunto
+		
+-Lugar
+		
+-Alarma (A qué hora)
+
+
+
+10. Página de Envio de mensajes
+	
+-En esta página se podrá enviar un mensaje a los contactos que se ubican en sus contactos.
+
+
+
+
+************** +3 pts ***************
+11. Poder exportar la tabla de contactos a una tabla de excel. (Debe terminar todas la páginas para que pueda ser válida esta opción y obtener puntos extra.)
+*************************************
